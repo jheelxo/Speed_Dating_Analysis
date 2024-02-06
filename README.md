@@ -4,3 +4,4 @@ This project was done using the Speed Dating dataset as compiled at https://data
 It was done by a classmate and me for an Introductory/Intermediate level crash course in Python programming during the first semester of the second year of my Master's in Dauphine - PSL.
 
 In hindsight, even though my partner insisted back then and yet I paid no attention, we could have created better graphs :)
+We used Google Colab for coding.
